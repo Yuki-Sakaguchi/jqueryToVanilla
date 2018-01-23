@@ -1,2 +1,2 @@
 # jQUeryをJavaScriptに書き換える
-https://yuki-sakaguchi.github.io/jqueryToVanilla/index.html
+https://yuki-sakaguchi.github.io/jqueryToVanilla/
