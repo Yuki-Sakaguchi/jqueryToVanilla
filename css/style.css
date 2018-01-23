@@ -1,0 +1,36 @@
+/* ---------------------------
+  スライドトグル用
+--------------------------- */
+.box {
+  background-color: turquoise;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.box__title {
+  color: white;
+}
+
+.box__more-btn {
+  color: turquoise;
+  background-color: white;
+}
+
+.box__content {
+  display: none;
+  overflow: hidden;
+  height: 0;
+  color: white;
+}
+
+
+/* ---------------------------
+  イージング用
+--------------------------- */
+.easing-box {
+  width: 100px;
+  height: 100px;
+  background: tomato;
+  position: relative;
+  margin-bottom: 10px;
+}
